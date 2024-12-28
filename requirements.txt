@@ -1,4 +1,5 @@
-demucs
-music21
+demucs==4.0.1
+music21==0.0.8
 torchaudio==2.0.1
 numpy==1.26.4
+PySoundFile==0.9.0.post1
